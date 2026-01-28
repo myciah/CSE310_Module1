@@ -1,0 +1,8 @@
+# Compiled binaries
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Debug / build files
+*.log
