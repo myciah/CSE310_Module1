@@ -6,7 +6,7 @@ The software itself is a simple console-based To-Do List Manager. It lets users 
 
 Building this project helped me dive deeper into key C++ concepts like object-oriented design, vectors, loops, conditional statements, and file handling. It also gave me practice breaking a program into logical sections and writing code that’s easy to understand and maintain.
 
-[Watch the software demo video](http://youtube.link.goes.here)
+[Watch the software demo video](https://youtu.be/8PrYQnm6-kw)
 
 ---
 
