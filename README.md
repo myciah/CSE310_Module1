@@ -25,6 +25,25 @@ The following resources were helpful while developing this project:
 - [cplusplus.com](https://www.cplusplus.com/)
 - [GeeksforGeeks - C++](https://www.geeksforgeeks.org/c-plus-plus/)
 
+# AI Disclosure
+
+For this project, I used AI tools, specifically ChatGPT, as a **learning and reference aid** to support my understanding of C++ and programming concepts. AI was used to help clarify syntax, explore example code, and provide guidance on structuring the program, but the code itself was generated with the assistance of AI.
+
+High-level uses of AI included:
+- Understanding how to define classes and member functions in C++
+- Exploring ways to handle user input, loops, and conditionals
+- Learning how to read from and write to files for task persistence
+
+AI guidance was primarily used to **generate initial code structure and examples**, which I studied to better understand C++ language features and program organization. While the AI-generated code formed the base of the project, I engaged with it to learn from the examples, observed how the language constructs worked, and explored how the program behaves when running.
+
+Through this process, I learned:
+- How a class can encapsulate data and behavior
+- How to use vectors and file streams effectively
+- How conditional statements and loops control program flow
+- How a simple console application can maintain persistent data
+
+In summary, AI was used as a **supplemental learning tool** to understand C++ programming concepts. The project reflects the code generated with AI support and my engagement with the language and software development concepts while exploring how it works.
+
 # Future Work
 
 - Add a search feature to find tasks by keyword
