@@ -1,51 +1,64 @@
 # Overview
 
-The goal of this project was to strengthen my understanding of C++ fundamentals by building a complete, functional console application from start to finish. I wanted to practice structuring a program using classes, functions, file input/output, and control flow while maintaining clean and readable code.
+This project was a hands-on way for me to get more comfortable with C++ and build something functional from start to finish. I wanted to practice structuring a program with classes, functions, file input/output, and control flow, while keeping the code organized and readable.
 
-The software is a console-based To-Do List Manager written in C++. It allows users to view tasks, add new tasks, remove tasks, mark tasks as complete, and save their progress to a file. When the program is restarted, previously saved tasks are automatically loaded, demonstrating persistent data storage.
+The software itself is a simple console-based To-Do List Manager. It lets users view tasks, add new ones, remove tasks, mark them as complete, and save everything to a file. When you reopen the program, it loads your saved tasks automatically, so your progress persists across sessions.
 
-I wrote this software to deepen my understanding of C++ syntax and core programming concepts such as object-oriented design, vectors, conditional logic, loops, and file handling. This project also helped me become more comfortable breaking a program into logical sections and writing code that is easy to maintain and explain.
+Building this project helped me dive deeper into key C++ concepts like object-oriented design, vectors, loops, conditional statements, and file handling. It also gave me practice breaking a program into logical sections and writing code that’s easy to understand and maintain.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Watch the software demo video](http://youtube.link.goes.here)
+
+---
 
 # Development Environment
 
-This project was developed using Visual Studio Code as the primary code editor. Git and GitHub were used for version control and to publish the project publicly. The program was compiled and tested using a C++ compiler in a Windows environment.
+I built this project in **Visual Studio Code**, and I used **Git and GitHub** for version control and publishing. The program was compiled and tested on a **Windows** machine with a standard C++ compiler.
 
-The programming language used for this project is C++. Standard libraries were used, including:
-- `<iostream>` for input and output
-- `<vector>` for dynamic task storage
-- `<string>` for handling text
-- `<fstream>` for reading from and writing to files
+The project uses **C++** and relies on standard libraries, including:
+
+- `<iostream>` for input and output  
+- `<vector>` for storing tasks dynamically  
+- `<string>` for handling text  
+- `<fstream>` for reading and writing files  
+
+---
 
 # Useful Websites
 
-The following resources were helpful while developing this project:
+While working on this project, these sites were really helpful:
 
-- [cplusplus.com](https://www.cplusplus.com/)
-- [GeeksforGeeks - C++](https://www.geeksforgeeks.org/c-plus-plus/)
+- [cplusplus.com](https://www.cplusplus.com/) – great for syntax reference and examples  
+- [GeeksforGeeks - C++](https://www.geeksforgeeks.org/c-plus-plus/) – useful tutorials and explanations  
+
+---
 
 # AI Disclosure
 
-For this project, I used AI tools, specifically ChatGPT, as a **learning and reference aid** to support my understanding of C++ and programming concepts. AI was used to help clarify syntax, explore example code, and provide guidance on structuring the program, but the code itself was generated with the assistance of AI.
+I used AI tools, specifically **ChatGPT**, as a learning and reference aid to help me understand C++ concepts and syntax. AI helped clarify certain programming ideas, explore example code, and provide guidance on structuring the program.  
 
-High-level uses of AI included:
-- Understanding how to define classes and member functions in C++
-- Exploring ways to handle user input, loops, and conditionals
-- Learning how to read from and write to files for task persistence
+Specifically, AI helped me:
 
-AI guidance was primarily used to **generate initial code structure and examples**, which I studied to better understand C++ language features and program organization. While the AI-generated code formed the base of the project, I engaged with it to learn from the examples, observed how the language constructs worked, and explored how the program behaves when running.
+- Understand how to define classes and member functions  
+- Explore handling user input, loops, and conditionals  
+- Learn how to read from and write to files for task persistence  
 
-Through this process, I learned:
-- How a class can encapsulate data and behavior
-- How to use vectors and file streams effectively
-- How conditional statements and loops control program flow
-- How a simple console application can maintain persistent data
+The AI-generated examples gave me a starting point, but I studied everything carefully to understand how it worked. I made sure I could explain and run every part of the code on my own.  
 
-In summary, AI was used as a **supplemental learning tool** to understand C++ programming concepts. The project reflects the code generated with AI support and my engagement with the language and software development concepts while exploring how it works.
+Through this project, I learned:
+
+- How to use classes to organize data and behavior  
+- How vectors and file streams work in practice  
+- How loops and conditionals control program flow  
+- How to build a simple console application with persistent data  
+
+In short, AI was used as a **supplemental learning tool**, and this project reflects both the guidance I received and my own understanding and experimentation.
+
+---
 
 # Future Work
 
-- Add a search feature to find tasks by keyword
-- Add a clear screen feature to improve menu readability
-- Add a graphical user interface (GUI) instead of using the console
+Here are a few ideas I’d like to explore if I continue developing this project:
+
+- Add a search feature to quickly find tasks by keyword  
+- Improve the menu interface by adding a clear screen option  
+- Upgrade to a graphical user interface (GUI) instead of the console  
