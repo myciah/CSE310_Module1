@@ -1,5 +1,3 @@
-# # Overview
-
 # Overview
 
 The goal of this project was to strengthen my understanding of C++ fundamentals by building a complete, functional console application from start to finish. I wanted to practice structuring a program using classes, functions, file input/output, and control flow while maintaining clean and readable code.
